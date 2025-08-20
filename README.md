@@ -1,4 +1,4 @@
-You Can Directly go and Wath the Dataset with the given link:-
+You Can Directly go and Watch the Dataset with the given link:-
 https://huggingface.co/datasets/ojhasatwik/bhojpuri_commentry_ipl
 
 YouTube Video to Text with Speaker Timestamps 🎙️➡️📝
